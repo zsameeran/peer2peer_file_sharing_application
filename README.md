@@ -14,16 +14,22 @@ interaction. In this UI user first has to add a peer by entering the port number
 have to implement this on a single local machine each peer is represented or identified by the
 port number which it runs on
 
+
+
 ![Capture](https://github.com/zsameeran/peer2peer_file_sharing_application/assets/53044906/c3a97b13-977d-4e36-a04d-d738e94fb297)
+
+
 The port number for the pear and add a new Peer. After adding several peers they get
 automatically connected to each other in the background. Hence we create a peer-to-peer
 network on a local machine.
 We can check the connections of each beer by clicking on the port number of the Peer on the
 left list box. The connections of the peer will be displayed on the right list box. As shown in the
 image
-
 Here, in the image we can see the connections of the Peer named 6000 have connections to
 the rest of the Peers that is to 7000 and to 8000.
 We can select the connections and then click on the send files button to browse the file that we
 have to send. Then it will send the file to the selected peer
+
+
+
 ![image](https://github.com/zsameeran/peer2peer_file_sharing_application/assets/53044906/8a172121-2eeb-495e-b949-02ebc9d5b771)
